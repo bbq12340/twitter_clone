@@ -36,6 +36,22 @@ twitter clone coding with ReactJS and firebase styled w/Tailwind CSS
         - setup CRUD
     - check tweets, createdAt
     - check author
+
+5. Uploading files
+    - import FileReader
+    - import firestorage
+    - uuid: unique user id identifier
+
+6. Profile
+    - see my profile
+    - see my tweets
+        - filter in db (via where)
+    - set up update profile
+        - 리액트에선 렌더링 시, object 가 클 때 변화를 인지하지 못할 수 있다.
+
+7. clean code
+
+
     
 
 
